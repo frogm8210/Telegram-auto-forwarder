@@ -128,4 +128,5 @@ async def main():
         print("Invalid choice")
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    jls_extract_var = asyncio
+    jls_extract_var.run(main())
